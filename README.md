@@ -1,12 +1,12 @@
 # smart-mirror
 
-# Requirements
-  - Frame
+# Requirements (totaal ~246€)
+  - Frame (~30€)
   - Monitor
+    - https://www.coolblue.be/nl/product/863479/benq-gl2480.html (129€/per stuk)
+    - https://www.bol.com/be/nl/p/hkc-mr17s-17-3-inch-hd-monitor-hdmi-en-vga/9200000132652937/?Referrer=ADVNLGOO002021-G-115058519653-S-342993099347-9200000132652937&gclid=Cj0KCQjwqp-LBhDQARIsAO0a6aKr7S_BqNLKlQnk2HICYWeBFoPJosouo3nz0Y4NazkivcadkTEUriMaAvLpEALw_wcB#product_specifications
   - Raspberry Pi
-    - https://www.bol.com/be/nl/p/raspberry-pi-4b-4-gb-2-4-ghz-usb-3-0-hdmi-bt-wifi/9200000114910900/?bltgh=nbryTF3ctmi3IQhwH-ZChA.2_36.37.ProductTitle 
+    - https://www.bol.com/be/nl/p/raspberry-pi-4b-4-gb-2-4-ghz-usb-3-0-hdmi-bt-wifi/9200000114910900/ (80€/per stuk)
   - Duct tape
-    - https://www.bol.com/be/nl/p/klus-reparatie-tape-duct-tape-duck-tape-multi-purpose-tape-waterproof-zilver-tape-50-mm/9200000092462825/?bltgh=lzV8HAjzW29ZHlhDUcJE2w.2_36.37.ProductImage 
   - SpiegelFolie
-    - https://www.premiumvinyls.nl/raamtint-folies/spiegel-raamfolie/
-    - https://www.bol.com/be/nl/p/spiegelfolie-neutraal-zilver-reflecterende-folie-plakfolie-spiegel-raamfolie-glasfolie-50-x-200-cm/9300000000830614/?Referrer=ADVNLGOO002075-G-122910960191-S-315302568173-9300000000830614&gclid=Cj0KCQjwqp-LBhDQARIsAO0a6aKvHZ4zA-lLoHRF8DYM6Mqs6OHoKFv7qQ4pueqxjf1KNCm_nlNSQEcaAt9zEALw_wcB 
+    - https://www.premiumvinyls.nl/raamtint-folies/spiegel-raamfolie/ (12,69€)
