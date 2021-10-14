@@ -10,3 +10,17 @@
   - Duct tape
   - SpiegelFolie
     - https://www.premiumvinyls.nl/raamtint-folies/spiegel-raamfolie/ (12,69€)
+# Ideas
+  - Calender ( google calendar )
+  - Weather
+  - Local News feed
+  - Google assistant
+  - Alexa assistant
+  - Spotify
+  - Grocery shopping list
+  - Camera face recognition
+  - Notifications
+  - Traffic to office
+  - Integrate with smart home
+  - Adjustable background lighting
+  - To-Do list
