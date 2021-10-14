@@ -6,4 +6,4 @@
   - Raspberry Pi
   - Duct tape
   - SpiegelFolie
-    -https://www.premiumvinyls.nl/raamtint-folies/spiegel-raamfolie/
+    - https://www.premiumvinyls.nl/raamtint-folies/spiegel-raamfolie/
